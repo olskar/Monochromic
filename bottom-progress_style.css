@@ -1,5 +1,3 @@
-:root {--accent: 255, 255, 255;}
-
 .itemProgressBar {
   height: 5px;
   background: rgba(0,0,0,.5);
